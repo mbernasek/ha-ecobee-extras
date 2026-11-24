@@ -1,0 +1,14 @@
+{
+  "domain": "ecobee_extras",
+  "name": "ecobee extras",
+  "codeowners": ["@mbernasek"],
+  "config_flow": true,
+  "dependencies": ["ecobee"],
+  "documentation": "https://github.com/mbernasek/ha-ecobee-extras",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/mbernasek/ha-ecobee-extras/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "0.1.0"
+}

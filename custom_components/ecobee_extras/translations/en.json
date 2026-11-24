@@ -1,0 +1,14 @@
+{
+  "config": {
+    "abort": {
+      "ecobee_not_configured": "Set up the ecobee integration first. ecobee extras uses its sign-in.",
+      "single_instance_allowed": "ecobee extras is already set up."
+    },
+    "step": {
+      "user": {
+        "description": "Adds an Aux heat max outdoor temperature setting to each heat pump thermostat that the ecobee integration manages. There is nothing to enter.",
+        "title": "ecobee extras"
+      }
+    }
+  }
+}

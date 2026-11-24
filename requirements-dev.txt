@@ -1,0 +1,4 @@
+# Test against the Home Assistant release these pins belong to.
+pytest-homeassistant==2026.11.2
+python-ecobee-api==0.4.2
+ruff
